@@ -234,7 +234,7 @@ opacity: 0;
 }
 
 .section--devices{
-    background: url("../images/device/fon_17.png")
+    background: url("/images/device/fon_17.png")
     center no-repeat;
     -webkit-background-size:cover;
     background-size: cover;
